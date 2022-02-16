@@ -1,0 +1,14 @@
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\eventHandlerClickButton\eventHandlerClickButton\bin\Debug\netcoreapp3.1\eventHandlerClickButton.exe
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\eventHandlerClickButton\eventHandlerClickButton\bin\Debug\netcoreapp3.1\eventHandlerClickButton.deps.json
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\eventHandlerClickButton\eventHandlerClickButton\bin\Debug\netcoreapp3.1\eventHandlerClickButton.runtimeconfig.json
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\eventHandlerClickButton\eventHandlerClickButton\bin\Debug\netcoreapp3.1\eventHandlerClickButton.runtimeconfig.dev.json
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\eventHandlerClickButton\eventHandlerClickButton\bin\Debug\netcoreapp3.1\eventHandlerClickButton.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\eventHandlerClickButton\eventHandlerClickButton\bin\Debug\netcoreapp3.1\eventHandlerClickButton.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\eventHandlerClickButton\eventHandlerClickButton\obj\Debug\netcoreapp3.1\eventHandlerClickButton.csproj.AssemblyReference.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\eventHandlerClickButton\eventHandlerClickButton\obj\Debug\netcoreapp3.1\eventHandlerClickButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\eventHandlerClickButton\eventHandlerClickButton\obj\Debug\netcoreapp3.1\eventHandlerClickButton.AssemblyInfoInputs.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\eventHandlerClickButton\eventHandlerClickButton\obj\Debug\netcoreapp3.1\eventHandlerClickButton.AssemblyInfo.cs
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\eventHandlerClickButton\eventHandlerClickButton\obj\Debug\netcoreapp3.1\eventHandlerClickButton.csproj.CoreCompileInputs.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\eventHandlerClickButton\eventHandlerClickButton\obj\Debug\netcoreapp3.1\eventHandlerClickButton.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\eventHandlerClickButton\eventHandlerClickButton\obj\Debug\netcoreapp3.1\eventHandlerClickButton.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\eventHandlerClickButton\eventHandlerClickButton\obj\Debug\netcoreapp3.1\eventHandlerClickButton.genruntimeconfig.cache
